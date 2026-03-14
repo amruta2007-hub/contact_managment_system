@@ -17,23 +17,23 @@ It allows users to add, view, search, update, and delete contacts while storing 
 
 ## Features
 
-• Feature 1: Add Contact – Users can add new contacts with details like name, phone number, email, and category.
-• Feature 2: Search and View Contacts – Users can search contacts by name and view all stored contacts.
-• Feature 3: Update and Delete Contacts – Existing contacts can be modified or removed from the system.
+• Feature 1: Add Contact – Users can add new contacts with details like name, phone number, email, and category.<br>
+• Feature 2: Search and View Contacts – Users can search contacts by name and view all stored contacts.<br>
+• Feature 3: Update and Delete Contacts – Existing contacts can be modified or removed from the system.<br>
 • Feature 4: Import/Export – Contacts can be exported to CSV or imported from CSV files.
 
 ## Technologies Used
 
-• Python 3.8+
-• JSON (for data storage)
-• CSV (for import/export functionality)
+• Python 3.8+<br>
+• JSON (for data storage)<br>
+• CSV (for import/export functionality)<br>
 • Command Line Interface (CLI)
 
 ## Installation
 
-1. Clone or download the project
+1. Clone or download the project<br>
 
-2. Navigate to the project folder
+2. Navigate to the project folder<br>
 
 3. Install dependencies (if any):
 
@@ -43,9 +43,9 @@ pip install -r requirements.txt
 
 ## How to Run
 
-1. Open terminal / command prompt
+1. Open terminal / command prompt <br>
 
-2. Navigate to the project folder
+2. Navigate to the project folder<br>
 
 3. Run the main script:
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-4. Follow the on-screen menu options to manage contacts.
+4. Follow the on-screen menu options to manage contacts.<br>
 
 ## Expected Output
 
@@ -64,7 +64,7 @@ The program will display a menu in the terminal allowing users to manage contact
 Input:
 
 ```
-Enter Contact Name: Rahul
+Enter Contact Name: Rahul 
 Enter Phone Number: 9876543210
 Enter Email: rahul@email.com
 Enter Category: Friend
@@ -83,6 +83,6 @@ Category: Friend
 
 ## Author
 
-Name: Amruta Uddhav Gaikwad
-Batch: ITC Infotech – Python Developer
+Name: Amruta Uddhav Gaikwad <br>
+Batch: ITC Infotech – Python Developer<br>
 Date: March 2026
