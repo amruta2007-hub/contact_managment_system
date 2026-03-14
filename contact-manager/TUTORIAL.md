@@ -24,3 +24,4 @@ Each contact includes:
 - Data is saved in `data/contacts.json`.
 - Exports are saved in `exports/`.
 - See README.md for more info.
+- see screenshot pdf for sample output.
