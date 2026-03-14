@@ -11,8 +11,8 @@ It allows users to add, view, search, update, and delete contacts while storing 
 
 ## Objectives
 
-• To develop a simple command-line application for managing contacts.
-• To practice file handling using JSON and CSV in Python.
+• To develop a simple command-line application for managing contacts.<br>
+• To practice file handling using JSON and CSV in Python.<br>
 • To implement CRUD operations (Create, Read, Update, Delete) for contact management.
 
 ## Features
